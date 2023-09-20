@@ -1,0 +1,4 @@
+﻿  Lab6_CGT215.cpp
+C:\Users\griff\OneDrive\Purdue2023\CGT 215\labs\lab6\Lab6_CGT215\Lab6_CGT215.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\griff\OneDrive\Purdue2023\CGT 215\labs\lab6\Lab6_CGT215\Lab6_CGT215.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+  Lab6_CGT215.vcxproj -> C:\Users\griff\OneDrive\Purdue2023\CGT 215\labs\lab6\Lab6_CGT215\x64\Debug\Lab6_CGT215.exe
